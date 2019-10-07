@@ -1,0 +1,3 @@
+download full dataset from kaggle
+
+https://www.kaggle.com/c/quora-question-pairs/data
